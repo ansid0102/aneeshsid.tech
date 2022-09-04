@@ -1,0 +1,27 @@
+.About{
+    /* width: 600px; */
+    padding: 90px;
+    box-shadow: 10px;
+    font-family: Helvetica;
+    font-size: large;
+    display: table;
+    margin: 0 auto;
+}
+#about_me{
+    display: flex;
+    margin: 0 auto;
+}
+#about_me ul{
+    margin-top: 0;
+    min-width: 696px;
+    list-style: none;
+    /* padding-top: 200px; */
+}
+#ame{
+    width: 300px;
+    /* padding: 10%; */
+}
+#about_me li{
+    padding: 3em;
+    display: inline;
+}
